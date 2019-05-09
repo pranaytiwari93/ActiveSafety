@@ -45,3 +45,8 @@ Soon as the video stream starts, the vehicle will start following the track in l
 To test LDWS, the vehicle has to be driven manually and the program will now throw warnings on the terminal window of the main server. The serial port needs to be deactivated to prevent automatic driving. 
 To drive the vehicle manually, open Keyboard_Pygame.py on a separate terminal or a separate computer (preferable).
 
+## References
+Hamuchiwa - https://github.com/hamuchiwa/AutoRCCar/tree/master/computer
+Udemy - The Complete Self-Driving Car Course - Applied Deep Learning
+Coursera - Introduction to self driving cars
+Sentdex (Youtube) -https://www.youtube.com/user/sentdex
