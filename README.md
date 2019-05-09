@@ -47,6 +47,9 @@ To drive the vehicle manually, open Keyboard_Pygame.py on a separate terminal or
 
 ## References
 Hamuchiwa - https://github.com/hamuchiwa/AutoRCCar/tree/master/computer
+
 Udemy - The Complete Self-Driving Car Course - Applied Deep Learning
+
 Coursera - Introduction to self driving cars
+
 Sentdex (Youtube) -https://www.youtube.com/user/sentdex
